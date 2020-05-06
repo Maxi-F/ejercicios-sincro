@@ -17,6 +17,7 @@ int actual()
 
         i++;
     }
+    return -1;
 }
 
 int siguiente(int id_actual)
